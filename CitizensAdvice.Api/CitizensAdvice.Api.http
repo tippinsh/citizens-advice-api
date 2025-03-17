@@ -1,0 +1,6 @@
+@CitizensAdvice.Api_HostAddress = http://localhost:5221
+
+GET {{CitizensAdvice.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
